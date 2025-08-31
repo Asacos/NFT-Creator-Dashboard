@@ -1,0 +1,136 @@
+aside {
+	padding: 30px;
+}
+
+aside .bg {
+	width: 360px;
+	height: 240px;
+}
+
+aside .avatar {
+	position: absolute;
+	width: 130px;
+	left: 1077px;
+	top: 295px;
+}
+
+aside h3 {
+	margin-left: 165px;
+	margin-top: 9px;
+	
+}
+
+aside p {
+	color: #949494;
+}
+
+aside .creator {
+	margin-left: 165px;
+}
+
+aside h6 {
+	margin-top: 15px;
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+}
+
+aside .bio {
+	margin-top: 10px;
+}
+
+aside .followers {
+	display: flex;
+	white-space: nowrap;
+	margin-top: 10px;
+}
+
+aside .followers .box {
+	text-align: center;
+	margin-right: 88px;
+}
+
+aside .followers .box p {
+	margin-top: 4px;
+}
+
+aside .buttons {
+	margin-top: 41px;
+}
+
+aside .buttons button {
+	margin-right: 20px;
+	padding: 10px;
+	background: #FFFFFF;
+	border-radius: 5px;
+	border: 1px solid #EBEBEB;
+}
+
+aside .buttons .blue {
+	padding: 11px 50px;
+	background: #3772FF;
+	color: #FFFFFF;
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+}
+
+aside .buttons button img{
+	width: 14px;
+}
+
+aside .labels {
+	display: flex;
+	white-space: nowrap;
+	margin-top: 39px;
+}
+
+aside .labels p {
+	margin-right: 36px;
+}
+
+aside .labels .blue {
+	margin-right: 150px;
+	color: #3772FF;
+}
+
+aside .creators {
+	margin-top: 38px;
+}
+
+aside .creator {
+	display: flex;
+	white-space: nowrap;
+	margin-left: 0;
+	margin-bottom: 24px;
+}
+
+aside .creator img {
+	width: 60px;
+	height: 60px;
+}
+
+aside .creator .data {
+	margin-left: 18px;
+}
+
+aside .creator .data h2 {
+	font-family: "Poppins", sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+aside .creator .data .info {
+	display: flex;
+	white-space: nowrap;
+	margin-top: 6px;
+}
+
+aside .creator .data .info img {
+	width: 15px;
+	height: 24px;
+	margin-left: 64px;
+}
+
+aside .creator .data .info p {
+	margin-left: 8px;
+	color: #000000;
+}

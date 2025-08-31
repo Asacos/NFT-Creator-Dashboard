@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	display: flex;
+	white-space: nowrap;
+}
+
+main {
+	display: flex;
+	white-space: nowrap;
+}
+
+.content {
+	padding: 30px;
+	background: #EEEEEE;
+}
+
+.content h2 {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: "Poppins", sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+p {
+	font-family: "Poppins", sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+h3 {
+	font-family: "Poppins", sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+h5 {
+	font-family: "Poppins", sans-serif;
+	font-size: 14px;
+}

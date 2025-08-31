@@ -1,0 +1,42 @@
+.cards {
+	display: flex;
+	white-space: nowrap;
+}
+
+.cards .card {
+	padding: 10px;
+	margin-right: 20px;
+	border-radius: 15px;
+	background: #FFFFFF;
+}
+
+.cards .card img {
+	width: 253px;
+}
+
+.cards .card h3 {
+	margin-left: 11px;
+	margin-top: 21px;
+	margin-bottom: 8px;
+	
+}
+
+.cards .card .info {
+	display: flex;
+	white-space: nowrap;
+}
+
+.cards .card .info h5 {
+	margin-left: 11px;
+}
+
+.cards .card .info img {
+	margin-left: 51px;
+	width: 10px;
+	height: 15px;
+}
+
+.cards .card .info p {
+	margin-left: 4px;
+	color: #464646;
+}
