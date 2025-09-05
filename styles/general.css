@@ -5,12 +5,12 @@
 
 body {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 }
 
 main {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 }
 
 .content {

@@ -1,6 +1,6 @@
 .card-info {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 }
 
 .card-info img {

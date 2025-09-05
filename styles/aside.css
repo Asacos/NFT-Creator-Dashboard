@@ -24,8 +24,8 @@ aside p {
 	color: #949494;
 }
 
-aside .creator {
-	margin-left: 165px;
+aside .creator-name {
+	padding-left: 165px;
 }
 
 aside h6 {
@@ -36,11 +36,12 @@ aside h6 {
 
 aside .bio {
 	margin-top: 10px;
+	width: 329px;
 }
 
 aside .followers {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 	margin-top: 10px;
 }
 
@@ -79,7 +80,7 @@ aside .buttons button img{
 
 aside .labels {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 	margin-top: 39px;
 }
 
@@ -98,7 +99,7 @@ aside .creators {
 
 aside .creator {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 	margin-left: 0;
 	margin-bottom: 24px;
 }
@@ -120,7 +121,7 @@ aside .creator .data h2 {
 
 aside .creator .data .info {
 	display: flex;
-	white-space: nowrap;
+	white-space: wrap;
 	margin-top: 6px;
 }
 
