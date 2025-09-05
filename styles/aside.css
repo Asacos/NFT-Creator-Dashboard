@@ -25,7 +25,7 @@ aside p {
 }
 
 aside .creator-name {
-	padding-left: 165px;
+	margin-left: 165px;
 }
 
 aside h6 {
@@ -100,7 +100,6 @@ aside .creators {
 aside .creator {
 	display: flex;
 	white-space: wrap;
-	margin-left: 0;
 	margin-bottom: 24px;
 }
 
