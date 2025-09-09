@@ -1,6 +1,5 @@
 .cards {
 	display: flex;
-	white-space: nowrap;
 }
 
 .cards .card {
@@ -23,7 +22,6 @@
 
 .cards .card .info {
 	display: flex;
-	white-space: nowrap;
 }
 
 .cards .card .info h5 {

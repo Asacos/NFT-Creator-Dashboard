@@ -1,6 +1,5 @@
 .card-info {
 	display: flex;
-	white-space: wrap;
 }
 
 .card-info img {
@@ -20,7 +19,6 @@
 
 .card-info .owned {
 	display: flex;
-	white-space: nowrap;
 }
 
 .card-info .owned h5 {
@@ -36,7 +34,6 @@
 .card-info .views {
 	margin-top: 22px;
 	display: flex;
-	white-space: nowrap;
 }
 
 .card-info .views img {
@@ -52,12 +49,10 @@
 
 .card-info .current {
 	display: flex;
-	white-space: nowrap;
 }
 
 .card-info .current .box {
 	display: flex;
-	white-space: nowrap;
 }
 
 .card-info .current img {

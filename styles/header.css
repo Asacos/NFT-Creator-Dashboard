@@ -1,6 +1,5 @@
 header {
 	display: flex;
-	white-space: nowrap;
 	padding: 25px;
 	border-left: 1px solid #EEEEEE;
 }
@@ -14,7 +13,6 @@ header input {
  
 header .box {
 	display: flex;
-	white-space: nowrap;
 	margin-left: 346px;
 	padding-top: 9px;
 	padding-left: 23px;

@@ -5,12 +5,10 @@
 
 body {
 	display: flex;
-	white-space: wrap;
 }
 
 main {
 	display: flex;
-	white-space: wrap;
 }
 
 .content {
