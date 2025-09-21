@@ -1,3 +1,3 @@
 # NFT-Creator-Dashboard
 
-![](screenshot.png)
+![](Screenshot.png)
