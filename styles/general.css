@@ -5,6 +5,7 @@
 
 body {
 	display: flex;
+	min-width: 1365px;
 }
 
 main {
